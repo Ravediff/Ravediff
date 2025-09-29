@@ -32,11 +32,14 @@ contribute real value, and keep exploring the creative side of code.
 
 ### 💻 My GitHub Stats
 <p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=Ravediff&show_icons=true&theme=radical\" height=\"165\"/>
-  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Ravediff&layout=compact&theme=radical\" height=\"165\"/>
-</p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravediff&show_icons=true&theme=radical)
+  <img src=\"![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravediff&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravediff&layout=compact&theme=radical)
+" height=\"165\"/>
+  <img src=\"![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravediff&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravediff&layout=compact&theme=radical)
+" height=\"165\"/>
+</p>
+
 
 ---
 
