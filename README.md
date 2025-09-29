@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 I’m an aspiring **Full-Stack Developer** currently completing the
-[IBM Full-Stack Development specialization](https://www.coursera.org/account/accomplishments/verify/2VPJ3U7X1PP5).
+IBM Full-Stack Development specialization.
 Coming from a hardworking background, I’ve learned to stay curious, adapt quickly,
 and keep creating even when things get tough.  
 My goal is to join a remote team where I can grow as a developer,
@@ -18,6 +18,7 @@ contribute real value, and keep exploring the creative side of code.
 ---
 
 ### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
@@ -38,7 +39,7 @@ contribute real value, and keep exploring the creative side of code.
 ---
 
 ### 🌐 Portfolio
-[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge)](https://ravediff.github.io/kalpa/)
+[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge)](https://ravediff.github.io/Portfolio/)
 
 ---
 
